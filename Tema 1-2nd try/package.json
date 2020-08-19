@@ -1,0 +1,23 @@
+{
+  "name": "curs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "exceljs": "^4.1.1",
+    "fs": "0.0.1-security",
+    "parse": "^2.15.0",
+    "read-excel-file": "^4.0.7",
+    "xlsx": "^0.16.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  }
+}
